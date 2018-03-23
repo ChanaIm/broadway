@@ -1,0 +1,90 @@
+.container {
+background-image:
+  url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  color: white;
+  text-align: center;
+}
+
+.newyork {
+background-image:
+  url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  color: white;
+  text-align: center;
+  font-size: 23px;
+}
+
+h1, h2, h3, h4, h5, p, li, nav, img {
+  text-align: center;
+  justify-content: center;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+p {
+  font-size: 14px;
+}
+
+.contact {
+    align-items: center;
+}
+
+.footer  {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  display: block;
+  width: 100%;
+  text-align: left;
+  align-items: flex-end;
+}
+
+.btn-nav {
+  color: white;
+  font-size: 18px;
+}
+
+.icon {
+  text-align: center;
+}
+
+/*
+list-style-type: none;
+flex-direction: column-reverse;
+height: 10em;
+display: block;
+align-items: center;
+justify-content: center;
+margin: 0
+position: relative;
+padding: 20px;
+*/
